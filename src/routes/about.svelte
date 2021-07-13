@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>About the svelte kit pokedex</title>
+	<title>About the svelte kit pokedex</title>
 </svelte:head>
 
 <h1 class="text-4xl text-center my-8 uppercase">About</h1>
